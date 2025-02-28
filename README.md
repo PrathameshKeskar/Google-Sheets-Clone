@@ -21,7 +21,6 @@ The application is built using **HTML, CSS, JavaScript, and Flask** for a dynami
 
 ### Backend:
 - **Flask (Python)**: Manages server-side logic and routing.
-- **Jinja2**: Template engine for rendering dynamic HTML pages.
 
 ## File Structure
 
@@ -89,6 +88,7 @@ Here are some screenshots of the application in action:
 2. **Install dependencies:**
    ```sh
    pip install flask
+   pip install flask - cors
    ```
 
 3. **Run the application:**
