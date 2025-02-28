@@ -49,6 +49,20 @@ The application is built using **HTML, CSS, JavaScript, and Flask** for a dynami
 - **Duplicate Removal**: Detects and removes duplicate values from the selected column.
 - **Cell & Row Selection**: Enables highlighting specific rows, columns, and cell ranges.
 
+## Screenshots
+
+Here are some screenshots of the application in action:
+
+1. The User Interface of the clone.
+![image](https://github.com/user-attachments/assets/db615fe1-b71f-41bc-8e3f-710aa50987df)
+
+2. Sum function working correctly for the selected cells.
+![image](https://github.com/user-attachments/assets/49e462ea-808b-420c-9fb6-085f9469fdb9)
+
+3. Count function working correctly for the selected cells.
+![image](https://github.com/user-attachments/assets/59f0ee1f-5b0d-4572-9f97-de7a874fb7cc)
+
+* All the other functions mentioned are working correctly as well.
 ## Installation & Setup
 
 1. **Clone the repository:**
