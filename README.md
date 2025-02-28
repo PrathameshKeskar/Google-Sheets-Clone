@@ -1,5 +1,4 @@
 # Google-Sheets-Clone
-Google Sheets Clone
 
 Overview
 
