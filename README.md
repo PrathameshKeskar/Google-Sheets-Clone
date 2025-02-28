@@ -23,6 +23,21 @@ The application is built using **HTML, CSS, JavaScript, and Flask** for a dynami
 - **Flask (Python)**: Manages server-side logic and routing.
 - **Jinja2**: Template engine for rendering dynamic HTML pages.
 
+## File Structure
+
+google-sheets-clone/  
+│── app.py                # Main Flask application  
+│  
+├── templates/  
+│   └── index.html        # Main HTML file  
+│  
+├── static/  
+│   ├── script.js         # JavaScript for spreadsheet functionalities  
+│   └── styles.css        # Stylesheet for UI  
+│  
+└── README.md             # Project documentation  
+
+
 ## Data Structures Used
 
 ### Arrays (JavaScript):
