@@ -88,7 +88,7 @@ Here are some screenshots of the application in action:
 2. **Install dependencies:**
    ```sh
    pip install flask
-   pip install flask - cors
+   pip install flask-cors
    ```
 
 3. **Run the application:**
